@@ -1,21 +1,21 @@
 name: multiple_localization
 description: Support for multiple abr and messages localization files for intl package.
-version: 0.3.0
-homepage: https://github.com/Innim/flutter_multiple_localization
-repository: https://github.com/Innim/flutter_multiple_localization
-issue_tracker: https://github.com/Innim/flutter_multiple_localization/issues
+version: 1.0.0
+homepage: https://github.com/contactjavas/flutter_multiple_localization
+repository: https://github.com/contactjavas/flutter_multiple_localization
+issue_tracker: https://github.com/contactjavas/flutter_multiple_localization/issues
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.17.0
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  innim_lint: ^0.3.0
+  innim_lint: ^0.4.0
 
 flutter:
